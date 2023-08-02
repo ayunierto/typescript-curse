@@ -22,7 +22,7 @@
 
   // Tuples
   const hero: [string, number] = ['Dr Strnge', 100];
-  hero[0] = 50;
+  hero[0] = 'hello';
 
   // Enums
   enum AudioLevel {
